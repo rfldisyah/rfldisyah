@@ -1,52 +1,122 @@
-# Hi there, I'm Refaldi! 👋 
-### 👨‍💻 Full-Stack Developer | Front-End Specialist & Vibe Coder ✨
+<!-- ========== HEADER (animasi gelombang) ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Refaldi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Front-End%20Specialist%20%26%20Vibe%20Coder&descSize=18&descAlignY=58" alt="header" width="100%" />
 
-Building seamless user experiences, aesthetic UIs, and robust backend systems.
+  <!-- Teks mengetik -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Refaldi+%F0%9F%91%8B;Building+seamless+user+experiences+%E2%9C%A8;Aesthetic+UIs+%2B+robust+backends+%F0%9F%9A%80;Clean+code.+Modern+UI.+Always+learning+%F0%9F%8E%A7" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=rfldisyah&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rfldisyah?label=Followers&style=for-the-badge&logo=github&color=8b5cf6" alt="Followers" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const refaldi = {
+  role: "Full-Stack Developer",
+  focus: ["React", "Tailwind CSS", "JavaScript (ES6+)", "HTML5/CSS3"],
+  backend: ["Node.js", "Python", "Laravel", "PostgreSQL"],
+  vibe: "Clean code, modern UI, and continuous learning",
+  currentlyLearning: ["TypeScript", "Next.js", "Docker"],
+  funFact: "Vibe coding dengan playlist favorit 🎧",
+};
+```
 
 - 🎨 **Front-End Focus:** React, Tailwind CSS, JavaScript (ES6+), HTML5/CSS3
 - ⚙️ **Back-End & Tools:** Node.js, Python, Laravel, PostgreSQL, Git
-- 🎧 **Vibe:** Clean code, modern UI, and continuous learning.
+- 🌱 **Currently learning:** TypeScript, Next.js, Docker
+- 💬 **Ask me about:** UI/UX, React, Tailwind, Laravel
+- 🎧 **Vibe:** Clean code, modern UI, and continuous learning
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfldisyah&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfldisyah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite&theme=dark" alt="frontend" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel,php,postgres,mysql&theme=dark" alt="backend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vercel&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rfldisyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfldisyah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rfldisyah&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rfldisyah&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfldisyah&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rfldisyah/rfldisyah/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rfldisyah/rfldisyah/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/rfldisyah/rfldisyah/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://heyfal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-heyfal.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:refaldi@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Tambahkan sosial media lain jika ada, hapus tanda komentar:
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  -->
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfldisyah&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://heyfal.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-heyfal.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:refaldi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- ========== FOOTER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
