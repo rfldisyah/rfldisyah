@@ -1,6 +1,6 @@
 <!-- ========== HEADER (SVG animasi, di-host di repo sendiri) ========== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rfldisyah/rfldisyah/main/assets/header.svg" alt="Refaldi - Full-Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/rfldisyah/rfldisyah/main/.github/assets/header.svg" alt="Refaldi - Full-Stack Developer" width="100%" />
 
   <!-- Teks mengetik -->
   <a href="https://github.com/rfldisyah">
@@ -101,4 +101,4 @@ const refaldi = {
 <br />
 
 <!-- ========== FOOTER ========== -->
-<img src="https://raw.githubusercontent.com/rfldisyah/rfldisyah/main/assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/rfldisyah/rfldisyah/main/.github/assets/footer.svg" width="100%" alt="footer" />
