@@ -80,7 +80,7 @@ const refaldi = {
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://heyfal.dev" target="_blank">
+  <a href="https://heyfal-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-heyfal.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:syahrefaldi@gmail.com" target="_blank">
@@ -92,6 +92,14 @@ const refaldi = {
   <a href="https://instagram.com/rfldisyh_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+    <a href="https://discord.com/users/1070177890509004962" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://open.spotify.com/user/31dfxd7h4ss5ir346hsohdrlgzay" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</div>
+  
 </div>
 
 <br />
